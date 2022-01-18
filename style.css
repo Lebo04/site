@@ -1,0 +1,26 @@
+body {
+    background-color: lightcoral;
+    background-image: url('coding.jpg');
+    text-align: center;
+}
+
+p {
+    color: purple;
+    text-align: center;
+    font-size: large;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+}
+ 
+ul li {
+    color: red;
+  list-style-type: none;
+}
